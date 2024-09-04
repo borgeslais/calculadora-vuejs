@@ -51,10 +51,6 @@ p {
 }
 
 
-.fnt {
-    font-size: 1.2em;
-}
-
 input {
     margin: auto;
     padding: 8px;

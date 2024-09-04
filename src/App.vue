@@ -4,7 +4,7 @@ import Calculadora from './components/Calculadora.vue';
 
 <template>
   <div class="container">
-    <h1 class="fnt">Calculadora Aritmética VueJs</h1>
+    <h1>Calculadora Aritmética VueJs</h1>
     <Calculadora />
   </div>
 
